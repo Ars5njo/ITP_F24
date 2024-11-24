@@ -1,0 +1,3 @@
+/Users/arsen/InnopolisBS/IntroductionToProgramming/lab4/ex1/cmake-build-debug/CMakeFiles/ex1.dir
+/Users/arsen/InnopolisBS/IntroductionToProgramming/lab4/ex1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arsen/InnopolisBS/IntroductionToProgramming/lab4/ex1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
